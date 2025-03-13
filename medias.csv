@@ -1,0 +1,5 @@
+type,id,titre,annee,auteur,isbn,editeur,periodicite,realisateur,duree,taille_fichier,format_fichier
+Livre,1,Python pour les Nuls,2020,John Doe,123-456-789,,,,,
+Magazine,2,Science Today,2021,,,"Science Corp",Mensuel,,,,
+DVD,3,Inception,2010,,,,Christopher Nolan,148,,,,
+LivreNumerique,4,Apprendre Python,2019,Jane Doe,987-654-321,,,,2.5,PDF
